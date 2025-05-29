@@ -1,3 +1,10 @@
+🎬 "Blockbusters, Bombs & Hidden Gems: What SQL Taught Me About the Movie Industry"
+If you'd like a shorter or more analytical version, here are two more options:
+
+📊 "From Data to Drama: Analyzing Hollywood with SQL"
+
+🎥 "SQL Meets Cinema: Insights from 2,000+ Movies"
+
 🎬 𝑨𝒏𝒂𝒍𝒚𝒛𝒊𝒏𝒈 𝑴𝒐𝒗𝒊𝒆 𝑫𝒂𝒕𝒂 𝑼𝒔𝒊𝒏𝒈 𝑺𝑸𝑳 (𝒘𝒊𝒕𝒉 𝒔𝒐𝒎𝒆 𝒖𝒏𝒆𝒙𝒑𝒆𝒄𝒕𝒆𝒅 𝒅𝒊𝒔𝒄𝒐𝒗𝒆𝒓𝒊𝒆𝒔!)
 This week, I dove into a real-world movie dataset to clean, explore, and derive insights using pure MySQL — and it was anything but ordinary!
 
